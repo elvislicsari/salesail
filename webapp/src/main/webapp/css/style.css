@@ -1,0 +1,43 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+body,p,b,i,strong,em,dt,dd,dl,sl,caption,th,td,tr,u,blink,select,option,form,div,font,li
+{
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    margin: 0;
+}
+
+#page-wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+#left-panel {
+    float: left;
+    width: 220px;
+}
+
+#footer {
+    clear: both;
+    padding-top: 5px;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    color: green;
+}
+
+.divider {
+    background-color: #E5E5E5;
+    border-bottom: 1px solid #FFFFFF;
+    height: 1px;
+    margin: 9px 1px;
+    overflow: hidden;
+}
